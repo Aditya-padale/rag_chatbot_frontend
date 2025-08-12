@@ -1,0 +1,28 @@
+{
+  "name": "rag-chatbot-frontend",
+  "version": "1.0.0",
+  "description": "Modern AI Assistant Frontend with Glass Morphism UI",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "ai",
+    "chatbot", 
+    "rag",
+    "frontend",
+    "javascript",
+    "html",
+    "css",
+    "tailwindcss",
+    "glass-morphism"
+  ],
+  "author": "Aditya Padale",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aditya-padale/rag-chatbot-frontend.git"
+  },
+  "homepage": "https://github.com/Aditya-padale/rag-chatbot-frontend#readme"
+}
